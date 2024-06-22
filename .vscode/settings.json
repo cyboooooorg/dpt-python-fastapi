@@ -1,0 +1,14 @@
+{
+    // * Editor settings
+    "keyboard.dispatch": "keyCode", // Fix for keyboard shortcuts not working
+    "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+    // * Conventional Commits settings
+    "conventionalCommits.scopes": [
+        "community",
+        "ci-cd",
+        "config",
+        "docs",
+        "dev",
+        "app"
+    ]
+}
